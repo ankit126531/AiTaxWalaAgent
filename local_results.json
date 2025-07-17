@@ -1,0 +1,530 @@
+[
+  {
+    "session_id": "e2f0e59f-5c7c-4651-8d4b-b0192740ce8a",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "old"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "old"
+  },
+  {
+    "session_id": "46dc6448-a840-4728-aea8-7019ab1ed035",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "old"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "old"
+  },
+  {
+    "session_id": "c8d97dbc-badd-42a1-8af2-436b732ca8b5",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "new"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "new"
+  },
+  {
+    "session_id": "44c9542d-2341-4a1b-b335-d577655ffe47",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "new"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "new"
+  },
+  {
+    "session_id": "3c1bf037-6452-4d4b-a178-a3620f1a5be8",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "old"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "old"
+  },
+  {
+    "session_id": "fbdf49b5-67a0-4dc0-b9c4-b15e5de3758c",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "old"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "old"
+  },
+  {
+    "session_id": "14bb49f0-0218-41e6-acd0-e3869f6b3012",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "old"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "old"
+  },
+  {
+    "session_id": "83330574-b573-4e80-9022-d9f695ab5736",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "old"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "old"
+  },
+  {
+    "session_id": "430b7c06-8368-4f3b-a141-369cc5428654",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "old"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "old"
+  },
+  {
+    "session_id": "130f4927-06e9-4912-b229-b3a9884700f5",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "old"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "old"
+  },
+  {
+    "session_id": "5a4ffa8a-3ee9-40f3-972e-802c26f51c19",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "new"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "new"
+  },
+  {
+    "session_id": "92d51283-cc96-499c-9267-504d75f0afe9",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "old"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "old"
+  },
+  {
+    "session_id": "e954175b-3779-44a8-9ff8-1c76092c637b",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "new"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "new"
+  },
+  {
+    "session_id": "cdce405a-4df4-4ebe-a7f0-88bde3e47e82",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "new"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "new"
+  },
+  {
+    "session_id": "80ddc057-8af6-4af4-97e1-215288f7e814",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "new"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "new"
+  },
+  {
+    "session_id": "5f563976-3c5b-405c-b5d8-b0ae1e0c3a84",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "new"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "new"
+  },
+  {
+    "session_id": "4ace0f5c-b6ea-4ab2-9eba-c59a280e1f2b",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "new"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "new"
+  },
+  {
+    "session_id": "20e7543a-4a2a-453f-aa25-6fa5ffc22494",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "new"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "new"
+  },
+  {
+    "session_id": "8a9ea38b-5e33-449a-8666-5bc97eb2bd68",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "new"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "new"
+  },
+  {
+    "session_id": "8380beb3-b451-4952-a215-c7b3b67fd5bd",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "new"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "new"
+  },
+  {
+    "session_id": "e1cdeefe-aaa8-4e6d-bb04-68e3f4375609",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "new"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "new"
+  },
+  {
+    "session_id": "f4dd27ae-051d-45f5-afc2-06693388562d",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "new"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "new"
+  },
+  {
+    "session_id": "be4e274a-0475-47a4-9870-cd7421b47935",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "new"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "new"
+  },
+  {
+    "session_id": "ea096108-d56f-44c5-a813-b1ead62357cb",
+    "financial_data": {
+      "gross_salary": 1500000.0,
+      "basic_salary": 840000.0,
+      "hra_received": 420000.0,
+      "rent_paid": 0.0,
+      "deduction_80c": 100800.0,
+      "deduction_80d": 0.0,
+      "standard_deduction": "0",
+      "professional_tax": 2400.0,
+      "tds": 62400.0,
+      "selected_regime": "new"
+    },
+    "tax_results": {
+      "old_regime_tax": 225201.96,
+      "new_regime_tax": 145101.11,
+      "best_regime": "new",
+      "tax_savings": 80100.85
+    },
+    "selected_regime": "new"
+  }
+]

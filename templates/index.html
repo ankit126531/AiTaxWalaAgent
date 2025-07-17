@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tax Advisor - Smart Tax Analysis & Optimization</title>
+    <link href="https://fonts.googleapis.com/css2?family=Aptos:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Aptos', sans-serif;
+            background: linear-gradient(135deg, #e0e7ff 0%, #f8fafc 100%);
+            margin: 0;
+            padding: 0;
+        }
+        .hero {
+            background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+            color: #fff;
+            padding: 60px 0 40px 0;
+            text-align: center;
+            border-bottom-left-radius: 60px 40px;
+            border-bottom-right-radius: 60px 40px;
+            box-shadow: 0 8px 32px rgba(37,99,235,0.10);
+        }
+        .hero .logo {
+            font-size: 3rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            letter-spacing: 2px;
+        }
+        .hero .tagline {
+            font-size: 1.5rem;
+            font-weight: 400;
+            margin-bottom: 20px;
+        }
+        .hero .cta-btn {
+            background: #fff;
+            color: #2563eb;
+            border: none;
+            border-radius: 50px;
+            padding: 18px 48px;
+            font-size: 1.2rem;
+            font-weight: 700;
+            cursor: pointer;
+            box-shadow: 0 4px 16px rgba(37,99,235,0.10);
+            transition: background 0.2s, color 0.2s;
+        }
+        .hero .cta-btn:hover {
+            background: #2563eb;
+            color: #fff;
+            border: 2px solid #fff;
+        }
+        .features {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 32px;
+            margin: 50px auto 0 auto;
+            max-width: 900px;
+        }
+        .feature {
+            background: #fff;
+            border-radius: 20px;
+            box-shadow: 0 4px 24px rgba(37,99,235,0.07);
+            padding: 32px 28px;
+            flex: 1 1 260px;
+            min-width: 260px;
+            max-width: 320px;
+            text-align: center;
+            transition: box-shadow 0.2s;
+        }
+        .feature:hover {
+            box-shadow: 0 8px 32px rgba(37,99,235,0.13);
+        }
+        .feature h3 {
+            color: #2563eb;
+            font-size: 1.3rem;
+            margin-bottom: 10px;
+        }
+        .feature p {
+            color: #64748b;
+            font-size: 1rem;
+        }
+        .footer {
+            text-align: center;
+            color: #64748b;
+            font-size: 1rem;
+            margin: 60px 0 20px 0;
+        }
+        @media (max-width: 900px) {
+            .features {
+                flex-direction: column;
+                gap: 24px;
+                max-width: 95vw;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <div class="logo">💰 Tax Advisor</div>
+        <div class="tagline">Smart, AI-powered Tax Analysis & Optimization for Salaried Indians</div>
+        <div style="font-size:1.1rem;max-width:600px;margin:0 auto 30px auto;opacity:0.95;">
+            Upload your salary slip or Form 16 and get instant, personalized tax comparison and actionable investment suggestions. Secure, private, and easy to use.
+        </div>
+        <form action="/upload" method="get">
+            <button type="submit" class="cta-btn">🚀 Start Tax Analysis</button>
+        </form>
+    </div>
+    <div class="features">
+        <div class="feature">
+            <h3>📊 Tax Regime Comparison</h3>
+            <p>See a side-by-side breakdown of Old vs New tax regimes and find the best option for you.</p>
+        </div>
+        <div class="feature">
+            <h3>🤖 AI Advisor</h3>
+            <p>Get personalized, actionable investment and tax-saving suggestions powered by Google Gemini.</p>
+        </div>
+        <div class="feature">
+            <h3>🔒 Secure & Private</h3>
+            <p>Your data is processed securely and deleted after analysis. No persistent storage, ever.</p>
+        </div>
+        <div class="feature">
+            <h3>⚡ Fast & Effortless</h3>
+            <p>Upload your document, review extracted data, and get results in just a few clicks.</p>
+        </div>
+    </div>
+    <div class="footer">
+        &copy; {{ 2024 }} Tax Advisor &mdash; Secure • Private • Fast • Accurate
+    </div>
+</body>
+</html> 

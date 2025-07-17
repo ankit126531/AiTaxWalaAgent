@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Tax Advisor - Tax Advisor</title>
+    <link href="https://fonts.googleapis.com/css2?family=Aptos:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Aptos', sans-serif; background: #f8fafc; margin: 0; padding: 0; }
+        .container { max-width: 600px; margin: 40px auto; background: #fff; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.08); padding: 40px; }
+        h1 { color: #2563eb; text-align: center; margin-bottom: 30px; }
+        .question { font-size: 1.2rem; margin-bottom: 20px; color: #374151; }
+        textarea { width: 100%; min-height: 80px; border-radius: 10px; border: 1px solid #cbd5e1; padding: 12px; font-size: 1rem; margin-bottom: 20px; }
+        .btn { background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); color: #fff; border: none; padding: 0.8rem 2.5rem; border-radius: 50px; font-size: 1.1rem; font-weight: 600; cursor: pointer; transition: box-shadow 0.2s; }
+        .btn:hover { box-shadow: 0 4px 16px rgba(37,99,235,0.15); }
+        .suggestions { background: #e0f2fe; border-radius: 12px; padding: 24px; margin-top: 20px; color: #2563eb; font-size: 1.1rem; }
+        .actions { text-align: center; margin-top: 30px; }
+        .actions a { color: #2563eb; text-decoration: underline; font-weight: 600; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🤖 AI Tax Advisor</h1>
+        {% if not show_suggestions %}
+            <div class="question">{{ question }}</div>
+            <form method="POST">
+                <input type="hidden" name="financial_data" value='{{ financial_data|tojson }}'>
+                <input type="hidden" name="tax_results" value='{{ tax_results|tojson }}'>
+                <input type="hidden" name="selected_regime" value="{{ selected_regime }}">
+                <textarea name="user_answer" placeholder="Type your answer here..." required></textarea>
+                <button class="btn" type="submit">Get Personalized Suggestions</button>
+            </form>
+        {% else %}
+            <div class="question"><strong>AI Follow-up Question:</strong> {{ question }}</div>
+            <div class="user-answer"><strong>Your Answer:</strong> {{ user_answer }}</div>
+            <div class="suggestions">
+                <h2>Personalized Suggestions</h2>
+                <div>{{ suggestions|safe }}</div>
+            </div>
+            <div class="actions">
+                <a href="/">Start New Analysis</a>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html> 
